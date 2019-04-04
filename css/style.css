@@ -17,6 +17,9 @@
 	margin-left: 30px;
 	font-size: 24px;
 }
+span {
+	color: red;
+}
 .soclogo:after{
 	content: "";
 	width: 1px;
@@ -99,6 +102,24 @@
 	padding-top: 40px;
 	padding-left: 100px;
 	padding-bottom: 30px;
+}
+
+.news-text {
+	width: 271px;
+	height: 60px;
+	background-color: #fff;
+	text-transform: uppercase;
+	font-size: 22px;
+	text-align: center;
+	padding-top: 20px;
+}
+
+.news img {
+	display: block;
+}
+
+.newsind1 img {
+	display: block;
 }
 
 .featured {
