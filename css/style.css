@@ -12,12 +12,6 @@
 	align-items:center;
 }
 
-.header {
-	padding-top:10px;
-	padding-bottom: 10px;
-	background-color: #fff;
-}
-
 .header a {
 	text-transform: uppercase;
 	margin-left: 30px;
@@ -95,10 +89,10 @@
 	height: 1000px;
 }
 
-
-.newsind1{
+.newsind1 {
 	padding: 40px 0;
 }
+
 
 .news-box h2 {
 	color: #3D58A6; 
