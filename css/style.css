@@ -107,11 +107,13 @@ span {
 
 .nbindex1 {
 	background-color: #BDCCD4;
-	height: 750px;
+	height: 800px;
+	padding-top: 50px;
 }
 
 .newsind1:first-child {
 	padding: 40px 0;
+
 }
 
 
